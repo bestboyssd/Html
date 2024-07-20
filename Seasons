@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Seasons</title>
+</head>
+<body bgcolor="pink">
+<font face="Arial" color="blue">
+<h3>Seasons of India</h3>
+<ul>
+<li>Summer</li>
+<li>Winter</li>
+<li>Spring</li>
+</ul>
+<center>
+<img src="D:\Games\Html\Pictures\Seasons.jpg" width="400" height="200">
+</center>
+</font>
+</body>
+</html>
